@@ -1,5 +1,5 @@
 # Unit Convert
-### This is a static site using pure HTML & CSS. 10/16/17
+### This is a static site using pure HTML & Javascript. 10/16/17
 ### by **Kevin Boyle & Zach Marston**
 
 ### Description:
